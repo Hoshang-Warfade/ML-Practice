@@ -18,7 +18,6 @@ Personal practice work and assignments completed while taking Andrew Ng's [Machi
 | 10_PCA | Principal Component Analysis (dimensionality reduction) |
 | 11_Reinforcement_Learning | Reinforcement learning |
 
-Each folder contains its own notebook(s) and, where relevant, a dedicated README.md with setup instructions and notes specific to that assignment.
 
 ## Credit & Copyright
 
